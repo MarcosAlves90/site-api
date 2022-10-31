@@ -1,0 +1,59 @@
+@import url('https://font.nmscd.com/assets/font/NMSFuturaProBook_Kerned/Web-TT/NMSFuturaProBook_Kerned.css');
+
+body{
+    background-color: #212529;
+}
+
+nav ul li {
+    font-size: 1.7em;  /*EM = pega a fonte padrão do site, e poe 1.5(nesse caso) cm a mais. */
+    font-family: NMSFuturaProBook;
+}
+
+.carrossel h5{
+    font-family: NMSFuturaProBook;
+    font-size: 2.0em;
+    font-weight: bold;
+    background-color: #212529;
+}
+
+.carrossel p{
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: #212529;
+}
+
+.card-header{
+    font-size: 2.0em;
+    font-family: NMSFuturaProBook;
+}
+
+
+
+
+
+
+.blocos{
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+
+.cartao{
+    margin-left: 15%;
+}
+.card-title{
+    text-align: center;
+}
+
+.cardbutton{  
+    text-align: center;
+    width: 100%;
+    background-color: #65088C;
+    border: none;
+    color: #fff;
+}
+
+.cardbutton:hover{
+    background-color: #65088C;
+    border: none;
+    color: #fff;
+}

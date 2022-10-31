@@ -1,0 +1,57 @@
+@import url('https://font.nmscd.com/assets/font/NMSFuturaProBook_Kerned/Web-TT/NMSFuturaProBook_Kerned.css');
+
+
+.but:any-link{
+    color: rgb(255, 196, 0);
+}
+
+.but:hover{
+    color:rgb(255, 255, 255);
+}
+
+.but:active{
+    color:rgb(255, 255, 255);
+}
+
+
+.fundo{
+    background-color: rgb(31,31,31);
+    height: 100vh;
+    color: white;
+    font-family: NMSFuturaProBook;
+    font-weight: bold;
+}
+
+.gabriel{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+
+.card {
+
+    font-family: NMSFuturaProBook;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 15px;
+
+}
+
+figure {
+    text-align: center;
+}
+
+.thanos {
+    margin-top: 12%;
+    border-color: white;
+    border: 2px double;
+    width: 40%;
+
+}
